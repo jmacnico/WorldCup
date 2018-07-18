@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 teste
 
 teste2
+=======
+>>>>>>> parent of 994cf75... Adicionado Portugal
